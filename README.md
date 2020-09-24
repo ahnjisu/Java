@@ -1,7 +1,8 @@
 # Java
-JAVA JAVa JAva Java java
-***
+
 기본적인 단어부터 이해하기 어려운 개념까지 . . .
+
+***
 
 #### JDK와 JRE
 - JDK(Java Development Kit) : 자바 개발자에게 무료로 배포하는 소프트웨어, 자바 컴파일러 등의 개발 도구 + JRE로 구성
