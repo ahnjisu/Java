@@ -5,7 +5,7 @@
 ***
 
 <details markdown = "1">
-<summary> ## 제1장 자바 시작 </summary>
+<summary> **제1장 자바 시작** </summary>
 
 
 #### JDK와 JRE
@@ -38,9 +38,9 @@
 </details>
      
 ***
-     
-## 제2장 자바 기본 프로그래밍
 
+<details markdown = "1">
+<summary> **제2장 자바 기본 프로그래밍** </summary>
      
 #### 식별자
 - 식별자 이름 규칙
@@ -78,3 +78,5 @@
     *ex) final double PI = 3.141592;*
 
 #### 
+
+</details>
