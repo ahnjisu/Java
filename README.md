@@ -5,7 +5,7 @@
 ***
 
 <details markdown = "1">
-<summary> **제1장 자바 시작** </summary>
+<summary> 제1장 자바 시작 </summary>
 
 
 #### JDK와 JRE
@@ -40,7 +40,7 @@
 ***
 
 <details markdown = "1">
-<summary> **제2장 자바 기본 프로그래밍** </summary>
+<summary> 제2장 자바 기본 프로그래밍 </summary>
      
 #### 식별자
 - 식별자 이름 규칙
