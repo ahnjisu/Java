@@ -3,9 +3,8 @@
     기본적인 단어부터 이해하기 어려운 개념까지 . . .
 
 ***
-**제 1장 자바 시작**
 <details markdown = "1">
-<summary>  </summary>
+<summary> 제 1장 자바 시작 </summary>
 
 
 #### JDK와 JRE
