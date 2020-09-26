@@ -4,8 +4,8 @@
 
 ***
 
-
-## 제1장 자바 시작
+<details markdown = "1">
+<summary> ## 제1장 자바 시작 </summary>
 
 
 #### JDK와 JRE
@@ -35,6 +35,7 @@
 - [실습문제1-1](https://github.com/ahnjisu/Java/blob/master/%EC%8B%A4%EC%8A%B5%EB%AC%B8%EC%A0%9C/1-1)
 - [실습문제1-2](https://github.com/ahnjisu/Java/blob/master/%EC%8B%A4%EC%8A%B5%EB%AC%B8%EC%A0%9C/1-2)
 
+</details>
      
 ***
      
