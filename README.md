@@ -56,5 +56,5 @@
     
 #### 자바의 기본 타입
 
-   ![자바의 기본 타입](https://user-images.githubusercontent.com/71385038/94329602-62ee2280-fff7-11ea-9bf7-4721b7237cc4.png)
+   ![자바의 기본 타입](https://user-images.githubusercontent.com/71385038/94329602-62ee2280-fff7-11ea-9bf7-4721b7237cc4.png){: width="80%" height="80%"}
 
