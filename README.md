@@ -29,8 +29,8 @@
      웹 서버에서 실행되는 서버용 자바 프로그램
      * 안드로이드(Android) 응용프로그램
      
-1.[실습문제1-1](https://github.com/ahnjisu/Java/blob/master/%EC%8B%A4%EC%8A%B5%EB%AC%B8%EC%A0%9C/1-1)
-    2.[실습문제1-2](https://github.com/ahnjisu/Java/blob/master/%EC%8B%A4%EC%8A%B5%EB%AC%B8%EC%A0%9C/1-2)
+- [실습문제1-1](https://github.com/ahnjisu/Java/blob/master/%EC%8B%A4%EC%8A%B5%EB%AC%B8%EC%A0%9C/1-1)
+- [실습문제1-2](https://github.com/ahnjisu/Java/blob/master/%EC%8B%A4%EC%8A%B5%EB%AC%B8%EC%A0%9C/1-2)
 
      
 ***
