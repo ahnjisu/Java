@@ -100,12 +100,12 @@
  - switch문
      * switch문의 case에 break;문이 생략되면 다음 break문 만날 때까지 계속 실행
      * case문의 값으로는 리터럴(정수, 문자, 문자열)만 사용 가능, 변수나 실수나 식은 사용 불가능
+     * default문 생략가능, default문에는 break;문 X
 
 ***
 
 
-- [실습문제1-1](https://github.com/ahnjisu/Java/blob/master/%EC%8B%A4%EC%8A%B5%EB%AC%B8%EC%A0%9C/1-1)
-- [실습문제1-2](https://github.com/ahnjisu/Java/blob/master/%EC%8B%A4%EC%8A%B5%EB%AC%B8%EC%A0%9C/1-2)
+- [실습문제2-1](https://github.com/ahnjisu/Java/blob/master/%EC%8B%A4%EC%8A%B5%EB%AC%B8%EC%A0%9C/2-1)
 
 
 </details>
