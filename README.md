@@ -92,7 +92,20 @@
 - \>\> 연산자 : 오른쪽 시프트 연산자, 각 비트를 **오른쪽**으로 이동시키며, 왼쪽 끝에는 **이전의 최상위 비트**가 삽입된다. 1비트 시프트 할 때마다 **나누기 2**의 효과가 나타난다.
 - \>\>\> 연산자 : 비트를 **오른쪽**으로 이동시키며, 왼쪽 끝에는 항상 **비트 0**이 삽입된다. 
 
+#### 조건문
+ - if문
+ - if-else문
+ - 다중 if-else문
+ - 중첩 if-else문
+ - switch문
+     * switch문의 case에 break;문이 생략되면 다음 break문 만날 때까지 계속 실행
+     * case문의 값으로는 리터럴(정수, 문자, 문자열)만 사용 가능, 변수나 실수나 식은 사용 불가능
 
+***
+
+
+- [실습문제1-1](https://github.com/ahnjisu/Java/blob/master/%EC%8B%A4%EC%8A%B5%EB%AC%B8%EC%A0%9C/1-1)
+- [실습문제1-2](https://github.com/ahnjisu/Java/blob/master/%EC%8B%A4%EC%8A%B5%EB%AC%B8%EC%A0%9C/1-2)
 
 
 </details>
