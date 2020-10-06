@@ -81,6 +81,9 @@
 
 - "Seoul Korea"와 같이 **공백이 낀 문자열**을 입력받기 위해서는 **nextLine()**을 이용
 
+#### 연산자 우선순위
+
+    ![연산자 우선순위](https://user-images.githubusercontent.com/71385038/95161545-685d2100-07de-11eb-9594-5a6c32f4beeb.jpg)
 
 
 #### 비트 시프트 연산
