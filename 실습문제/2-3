@@ -1,0 +1,51 @@
+import java.util.Scanner;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner scanner = new Scanner(System.in);
+
+		System.out.print("금액을 입력하시오>>");
+		int n = scanner.nextInt();
+		int a[] = new int[7];
+
+		if (n >= 50000) {
+			a[0] = n / 50000;
+			n -= a[0] * 50000;
+			System.out.println(n);
+		}
+		if (n >= 10000) {
+			a[1] = n / 10000;
+			n -= a[1] * 10000;
+		}
+		if (n >= 1000) {
+			a[2] = n / 1000;
+			n -= a[2] * 1000;
+		}
+		if (n >= 100) {
+			a[3] = n / 100;
+			n -= a[3] * 100;
+		}
+		if (n >= 50) {
+			a[4] = n / 50;
+			n -= a[4] * 50;
+		}
+		if (n >= 10) {
+			a[5] = n / 10;
+			n -= a[5] * 10;
+		}
+		if (n >= 1) {
+			a[6] = n / 1;
+			n -= a[6] * 1;
+		}
+
+		System.out.println("오만원권 " + a[0] + "매");
+		System.out.println("만원권 " + a[1] + "매");
+		System.out.println("천원권 " + a[2] + "매");
+		System.out.println("백원 " + a[3] + "매");
+		System.out.println("오십원 " + a[4] + "매");
+		System.out.println("십원 " + a[5] + "매");
+		System.out.println("일원 " + a[6] + "매");
+	}
+}
