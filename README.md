@@ -109,6 +109,7 @@
 - [실습문제2-2](https://github.com/ahnjisu/Java/blob/master/%EC%8B%A4%EC%8A%B5%EB%AC%B8%EC%A0%9C/2-2)
 - [실습문제2-3](https://github.com/ahnjisu/Java/blob/master/%EC%8B%A4%EC%8A%B5%EB%AC%B8%EC%A0%9C/2-3)
 - [실습문제2-4](https://github.com/ahnjisu/Java/blob/master/%EC%8B%A4%EC%8A%B5%EB%AC%B8%EC%A0%9C/2-4)
-- 
+- [실습문제2-5](https://github.com/ahnjisu/Java/blob/master/%EC%8B%A4%EC%8A%B5%EB%AC%B8%EC%A0%9C/2-5)
+- [실습문제2-6](https://github.com/ahnjisu/Java/blob/master/%EC%8B%A4%EC%8A%B5%EB%AC%B8%EC%A0%9C/2-6)
 
 </details>
